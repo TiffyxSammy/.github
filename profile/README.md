@@ -1,5 +1,1 @@
-<div align="center">
-
-![Sammy and Tiffy README](profile/profile.svg)
-
-</div>
+![Sammy and Tiffy README](https://raw.githubusercontent.com/TiffyxSammy/.github/main/profile/profile.svg)
